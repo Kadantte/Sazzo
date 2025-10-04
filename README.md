@@ -5,10 +5,10 @@ I'm a software developer at [Konsi](https://konsi.com.br)
 
 I work (usually) with **TypeScript**, **NestJS**, **PostgreSQL**, **Prisma**, **Svelte** and **React** + have more than six years of practical software development experience. Sometimes a miracle hits and I launch a personal project, which tends to be open-source.
  
-• <strong>Website</strong>: https://sazz.dev
+• <strong>Website</strong>: https://bulcao.net
 <br>
 • <strong>LinkedIn</strong>: https://www.linkedin.com/in/felipesazz
 <br>
-• <strong>Email</strong>: felipe@sazz.dev
+• <strong>Email</strong>: felipe@bulcao.net
 <br>
 • <strong>Discord</strong>: <code>@felipesazz</code>
